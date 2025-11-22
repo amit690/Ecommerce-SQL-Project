@@ -48,12 +48,13 @@ Stores festive discount information for products.
 This structure allows realistic e-commerce insights and relational SQL analysis.
 
 📂 Files in This Project
-File Name	Purpose
-schema.sql	-Contains all SQL table creation statements
-data.sql	-Includes 300+ rows of sample, realistic data
-queries.sql	-Contains analytics queries for insights
-README.md	-Documentation for portfolio viewers
 
+| File Name   | Purpose                                           |
+|-------------|---------------------------------------------------|
+| `schema.sql` | Contains all SQL table creation statements         |
+| `data.sql`   | Includes 300+ rows of realistic sample data        |
+| `queries.sql`| Contains analytical SQL queries for insights       |
+| `README.md`  | Documentation for recruiters and portfolio viewers |
 
 📊 Analysis Highlights
 

@@ -72,19 +72,17 @@ The SQL logic focuses on finding:
 
 📈 Sales trends during festive season
 
-🏙️ City-wise customer distribution
-
 All queries are included in queries.sql.
 
 💡 Business Insights 
 
-Electronics generate the highest overall revenue.
+Home category generate the highest overall revenue.
 
-Sellers with ratings above 4.0 consistently outperform others.
+The revenue of saller is not effectecd by their rating 
 
 Repeat customers contribute significantly to total revenue.
 
-Fashion and Electronics have the highest offer coverage during festive periods.
+Appliances and Fashion have the highest offer coverage during festive periods.
 
 🎯 Skills Demonstrated
 
